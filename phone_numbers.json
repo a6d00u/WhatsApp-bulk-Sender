@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "phone_number": "+1-202-555-0173"
+    },
+    {
+        "name": "Jane Smith",
+        "phone_number": "+44-20-7946-0958"
+    },
+    {
+        "name": "Alice Johnson",
+        "phone_number": "+61-2-9876-5432"
+    },
+    {
+        "name": "Bob Brown",
+        "phone_number": "+91-22-1234-5678"
+    },
+    {
+        "name": "Charlie Davis",
+        "phone_number": "+81-3-1234-5678"
+    }
+]

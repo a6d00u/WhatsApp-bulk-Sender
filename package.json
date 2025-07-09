@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-bulk-sender",
+  "version": "1.0.0",
+  "description": "Envoi de messages WhatsApp en masse avec délai",
+  "main": "whatsapp_bulk_sender.js",
+  "scripts": {
+    "start": "node whatsapp_bulk_sender.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bulk",
+    "messaging",
+    "automation"
+  ],
+  "author": "Webstar-Electro",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

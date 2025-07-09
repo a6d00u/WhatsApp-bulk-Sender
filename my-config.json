@@ -1,0 +1,14 @@
+{
+    "contactsFile": "phone_numbers.json",
+    "messageTemplate": "Hello ${name}! This is a personalized message :) by a6d00u.",
+    "media": {
+        "path": "./media/images/test.png",
+        "caption": "Visitez notre site: https://github.com/a6d00u"
+    },
+    "settings": {
+        "delayBetweenMessages": 20000,
+        "maxRetries": 3,
+        "saveReports": true,
+        "reportsDirectory": "./reports"
+    }
+}
