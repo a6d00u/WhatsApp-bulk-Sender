@@ -22,7 +22,7 @@ A professional bulk messaging solution for WhatsApp built with Node.js and whats
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/whatsapp-bulk-sender.git
+git clone https://github.com/a6d00u/WhatsApp-bulk-Sender.git
 cd whatsapp-bulk-sender
 ```
 
