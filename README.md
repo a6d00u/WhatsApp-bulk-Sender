@@ -32,8 +32,8 @@ npm install
 ```
 3. Set up configuration files:
 ```bash
-cp sample-config.json my-config.json
-cp sample-contacts.json phone_numbers.json
+my-config.json
+phone_numbers.json
 ```
 4. Run the application:
 ```bash
