@@ -24,3 +24,39 @@ A professional bulk messaging solution for WhatsApp built with Node.js and whats
 ```bash
 git clone https://github.com/yourusername/whatsapp-bulk-sender.git
 cd whatsapp-bulk-sender
+
+2. Install dependencies:
+```bash
+npm install
+
+3. Set up configuration files:
+```bash
+my-config.json
+phone_numbers.json
+
+4. Run the application:
+```bash
+node whatsapp-bulk-sender.js
+
+## Security Notes
+
+- Protect your session.json file
+- Store contacts data securely
+- Comply with WhatsApp's Terms of Service
+
+## Troubleshooting :
+
+### Authentication Problems:
+- Restart application if QR code expires
+- Ensure your phone has internet connection
+
+### Message Delivery Failures:
+- Verify phone number formats
+
+### Media Attachment Issues:
+- Confirm file paths are correct
+- Verify file size limits (16MB for videos)
+
+# License
+
+MIT License - See LICENSE file for details.
