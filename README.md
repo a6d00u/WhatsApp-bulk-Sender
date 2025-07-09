@@ -1,4 +1,3 @@
-# WhatsApp-bulk-Sander
 # WhatsApp Bulk Sender
 
 A Node.js application for sending bulk WhatsApp messages with media attachments and personalized content.
