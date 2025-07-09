@@ -21,23 +21,24 @@ A professional bulk messaging solution for WhatsApp built with Node.js and whats
 ## Installation
 
 1. Clone the repository:
-```bash
+\```bash
 git clone https://github.com/yourusername/whatsapp-bulk-sender.git
 cd whatsapp-bulk-sender
+\```
 
 2. Install dependencies:
 ```bash
 npm install
-
+\```
 3. Set up configuration files:
 ```bash
 my-config.json
 phone_numbers.json
-
+\```
 4. Run the application:
 ```bash
 node whatsapp-bulk-sender.js
-
+\```
 ## Security Notes
 
 - Protect your session.json file
